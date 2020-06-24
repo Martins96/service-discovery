@@ -1,0 +1,17 @@
+.project
+.classpath
+.metainfo
+.settings/
+.metadata/
+*.class
+*.bin
+*.jar
+*.tmp
+*.log
+
+log/
+bin/
+build/
+target/
+tmp/
+temp/
